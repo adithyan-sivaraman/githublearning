@@ -1,2 +1,4 @@
 this is a git hub learning session
-this is an additional learning session
+
+this is an extra text
+this is an additional text entered
